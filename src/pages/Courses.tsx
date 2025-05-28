@@ -48,7 +48,7 @@ const mockCourses = [
     id: '4',
     title: 'Machine Learning Essentials',
     instructor: {
-      name: 'Dr. James Wilson',
+      name: 'Dr. VARUN',
       avatar: '/placeholder.svg',
     },
     category: 'AI & ML',

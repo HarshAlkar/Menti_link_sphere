@@ -17,7 +17,7 @@ import { database } from '@/services/database';
 const mockMentors = [
   {
     id: '1',
-    name: 'Dr. Maria Garcia',
+    name: 'HARSH ALKAR',
     expertise: ['Data Science', 'Machine Learning', 'Python'],
     avatar: '/placeholder.svg',
     bio: 'Senior Data Scientist with 8+ years of experience in machine learning and AI. PhD in Computer Science from Stanford.',
@@ -29,7 +29,7 @@ const mockMentors = [
   },
   {
     id: '2',
-    name: 'Robert Johnson',
+    name: 'SHREYAS MANE',
     expertise: ['Web Development', 'React', 'Node.js'],
     avatar: '/placeholder.svg',
     bio: 'Full-stack developer with 10+ years experience. Specializing in modern JavaScript frameworks and responsive design.',

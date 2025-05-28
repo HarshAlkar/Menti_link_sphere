@@ -21,8 +21,8 @@ const dummyStudents = [
 
 // Dummy teachers data for demo purposes
 const dummyTeachers = [
-  { id: 'teacher1', name: 'Dr. Maria Garcia', role: 'teacher' },
-  { id: 'teacher2', name: 'Robert Johnson', role: 'teacher' },
+  { id: 'teacher1', name: 'HARSH ALKAR', role: 'teacher' },
+  { id: 'teacher2', name: 'SHREYAS MANE', role: 'teacher' },
   { id: 'mentor1', name: 'David Smith', role: 'mentor' },
   { id: 'mentor2', name: 'Lisa Thompson', role: 'mentor' },
 ];

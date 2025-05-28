@@ -15,7 +15,7 @@ const mockEnrolledCourses = [
   {
     id: '1',
     title: 'Introduction to Web Development',
-    instructor: 'Dr. Maria Garcia',
+    instructor: 'HARSH ALKAR',
     progress: 65,
     nextLesson: 'CSS Flexbox and Grid',
     nextLessonDate: '2023-09-22T13:00:00Z',
@@ -23,7 +23,7 @@ const mockEnrolledCourses = [
   {
     id: '2',
     title: 'Advanced Machine Learning',
-    instructor: 'Robert Johnson',
+    instructor: 'SHREYAS MANE',
     progress: 42,
     nextLesson: 'Neural Networks Architecture',
     nextLessonDate: '2023-09-23T15:30:00Z',
@@ -34,14 +34,14 @@ const mockEnrolledCourses = [
 const mockMentorSessions = [
   {
     id: '1',
-    mentorName: 'Dr. Ahmed Khan',
+    mentorName: 'SHALAKA',
     date: '2023-09-24T14:00:00Z',
     topic: 'Career Guidance in Tech',
     status: 'scheduled',
   },
   {
     id: '2',
-    mentorName: 'Sarah Thompson',
+    mentorName: 'SHAKSHI',
     date: '2023-09-20T11:00:00Z',
     topic: 'Project Review',
     status: 'completed',

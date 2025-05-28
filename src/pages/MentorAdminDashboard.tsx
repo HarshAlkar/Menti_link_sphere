@@ -18,10 +18,10 @@ const mockStats = {
 };
 
 const mockRecentActivities = [
-  { id: 1, type: 'course', action: 'created', title: 'Advanced Machine Learning', user: 'Robert Johnson', time: '2 hours ago' },
-  { id: 2, type: 'mentor', action: 'approved', title: 'Dr. Maria Garcia', user: 'Admin', time: '3 hours ago' },
+  { id: 1, type: 'course', action: 'created', title: 'Advanced Machine Learning', user: 'SHREYAS MANE', time: '2 hours ago' },
+  { id: 2, type: 'mentor', action: 'approved', title: 'HARSH ALKAR', user: 'Admin', time: '3 hours ago' },
   { id: 3, type: 'session', action: 'completed', title: 'Career Guidance Session', user: 'Ahmed Khan', time: '5 hours ago' },
-  { id: 4, type: 'course', action: 'updated', title: 'Web Development Bootcamp', user: 'Sarah Thompson', time: '1 day ago' },
+  { id: 4, type: 'course', action: 'updated', title: 'Web Development Bootcamp', user: 'SHAKSHI', time: '1 day ago' },
 ];
 
 const MentorAdminDashboard = () => {
@@ -166,7 +166,7 @@ const MentorAdminDashboard = () => {
                       <div className="flex justify-between items-center py-2 border-b">
                         <div>
                           <h3 className="font-medium">New Mentor Application</h3>
-                          <p className="text-sm text-muted-foreground">From: James Wilson • Submitted: 1 day ago</p>
+                          <p className="text-sm text-muted-foreground">From: VARUN • Submitted: 1 day ago</p>
                         </div>
                         <div className="flex gap-2">
                           <Button size="sm" variant="destructive">Reject</Button>
@@ -177,7 +177,7 @@ const MentorAdminDashboard = () => {
                       <div className="flex justify-between items-center py-2 border-b">
                         <div>
                           <h3 className="font-medium">Course Publication Request</h3>
-                          <p className="text-sm text-muted-foreground">Course: Data Visualization • By: Emily Chen</p>
+                          <p className="text-sm text-muted-foreground">Course: Data Visualization • By: SURAJ LONDHE</p>
                         </div>
                         <div className="flex gap-2">
                           <Button size="sm" variant="destructive">Reject</Button>

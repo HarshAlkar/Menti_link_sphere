@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 const mockMentors = [
   {
     id: '1',
-    name: 'Dr. Maria Garcia',
+    name: 'HARSH ALKAR',
     expertise: ['Data Science', 'Machine Learning', 'Python'],
     avatar: '/placeholder.svg',
     bio: 'Senior Data Scientist with 8+ years of experience in machine learning and AI. PhD in Computer Science from Stanford.',
@@ -17,7 +17,7 @@ const mockMentors = [
   },
   {
     id: '2',
-    name: 'Robert Johnson',
+    name: 'SHREYAS MANE',
     expertise: ['Web Development', 'React', 'Node.js'],
     avatar: '/placeholder.svg',
     bio: 'Full-stack developer with 10+ years experience. Specializing in modern JavaScript frameworks and responsive design.',
@@ -25,7 +25,7 @@ const mockMentors = [
   },
   {
     id: '3',
-    name: 'Emily Chen',
+    name: 'SURAJ LONDHE',
     expertise: ['UX Design', 'UI Design', 'Figma'],
     avatar: '/placeholder.svg',
     bio: 'Lead UX/UI designer with experience at top tech companies. Passionate about creating accessible and beautiful digital experiences.',

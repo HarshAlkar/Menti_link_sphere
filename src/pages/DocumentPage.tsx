@@ -19,7 +19,7 @@ const mockDocuments = [
     fileSize: '3.2 MB',
     uploadDate: '2023-09-15',
     url: 'https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf', // Example public PDF
-    author: 'Dr. Maria Garcia',
+    author: 'HARSH ALKAR',
     description: 'A comprehensive guide to web development basics including HTML, CSS, and JavaScript fundamentals.',
   },
   {
@@ -31,7 +31,7 @@ const mockDocuments = [
     fileSize: '2.8 MB',
     uploadDate: '2023-09-18',
     url: 'https://mozilla.github.io/pdf.js/web/compressed.tracemonkey-pldi-09.pdf', // Example public PDF
-    author: 'Dr. Maria Garcia',
+    author: 'HARSH ALKAR',
     description: 'Learn advanced CSS techniques including Flexbox, Grid, and CSS animations.',
   },
 ];

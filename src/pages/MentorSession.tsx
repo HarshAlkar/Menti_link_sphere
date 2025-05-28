@@ -14,7 +14,7 @@ import { Mic, MicOff, Video, VideoOff, Phone, MessageSquare, Database } from 'lu
 // Temporary mock data for the mentor
 const mockMentor = {
   id: '1',
-  name: 'Dr. Maria Garcia',
+  name: 'HARSH ALKAR',
   expertise: ['Data Science', 'Machine Learning', 'Python'],
   avatar: '/placeholder.svg',
 };

@@ -12,7 +12,7 @@ import { Search } from 'lucide-react';
 const mockMentors = [
   {
     id: '1',
-    name: 'Dr. Maria Garcia',
+    name: 'HARSH ALKAR',
     expertise: ['Data Science', 'Machine Learning', 'Python'],
     avatar: '/placeholder.svg',
     bio: 'Senior Data Scientist with 8+ years of experience in machine learning and AI. PhD in Computer Science from Stanford.',
@@ -20,7 +20,7 @@ const mockMentors = [
   },
   {
     id: '2',
-    name: 'Robert Johnson',
+    name: 'SHREYAS MANE',
     expertise: ['Web Development', 'React', 'Node.js'],
     avatar: '/placeholder.svg',
     bio: 'Full-stack developer with 10+ years experience. Specializing in modern JavaScript frameworks and responsive design.',
@@ -28,7 +28,7 @@ const mockMentors = [
   },
   {
     id: '3',
-    name: 'Emily Chen',
+    name: 'SURAJ LONDHE',
     expertise: ['UX Design', 'UI Design', 'Figma'],
     avatar: '/placeholder.svg',
     bio: 'Lead UX/UI designer with experience at top tech companies. Passionate about creating accessible and beautiful digital experiences.',
@@ -36,7 +36,7 @@ const mockMentors = [
   },
   {
     id: '4',
-    name: 'James Wilson',
+    name: 'VARUN',
     expertise: ['AI', 'Machine Learning', 'Computer Vision'],
     avatar: '/placeholder.svg',
     bio: 'AI researcher with focus on computer vision and deep learning. Previously worked at Google AI and published papers at top conferences.',
@@ -44,7 +44,7 @@ const mockMentors = [
   },
   {
     id: '5',
-    name: 'Sarah Thompson',
+    name: 'SHAKSHI',
     expertise: ['Digital Marketing', 'SEO', 'Content Strategy'],
     avatar: '/placeholder.svg',
     bio: 'Marketing executive with expertise in digital transformation. Helped scale multiple startups and Fortune 500 companies.',
@@ -52,7 +52,7 @@ const mockMentors = [
   },
   {
     id: '6',
-    name: 'Dr. Ahmed Khan',
+    name: 'SHALAKA',
     expertise: ['Cybersecurity', 'Ethical Hacking', 'Network Security'],
     avatar: '/placeholder.svg',
     bio: 'Cybersecurity expert with 15+ years of experience. Certified ethical hacker and security consultant for major organizations.',

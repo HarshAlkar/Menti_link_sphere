@@ -25,7 +25,7 @@ import { useToast } from '@/hooks/use-toast';
 const mockMentors = [
   {
     id: '1',
-    name: 'Dr. Maria Garcia',
+    name: 'HARSH ALKAR',
     email: 'maria.garcia@example.com',
     expertise: ['Data Science', 'Machine Learning', 'Python'],
     bio: 'Senior Data Scientist with 8+ years of experience in machine learning and AI. PhD in Computer Science from Stanford.',
@@ -36,7 +36,7 @@ const mockMentors = [
   },
   {
     id: '2',
-    name: 'Robert Johnson',
+    name: 'SHREYAS MANE',
     email: 'robert.johnson@example.com',
     expertise: ['Web Development', 'React', 'Node.js'],
     bio: 'Full-stack developer with 10+ years experience. Specializing in modern JavaScript frameworks and responsive design.',
@@ -47,7 +47,7 @@ const mockMentors = [
   },
   {
     id: '3',
-    name: 'Emily Chen',
+    name: 'SURAJ LONDHE',
     email: 'emily.chen@example.com',
     expertise: ['UX Design', 'UI Design', 'Figma'],
     bio: 'Lead UX/UI designer with experience at top tech companies. Passionate about creating accessible and beautiful digital experiences.',
@@ -58,7 +58,7 @@ const mockMentors = [
   },
   {
     id: '4',
-    name: 'James Wilson',
+    name: 'VARUN',
     email: 'james.wilson@example.com',
     expertise: ['AI', 'Machine Learning', 'Computer Vision'],
     bio: 'AI researcher with focus on computer vision and deep learning. Previously worked at Google AI and published papers at top conferences.',
@@ -83,7 +83,7 @@ const mockApplications = [
   },
   {
     id: '2',
-    name: 'Sarah Thompson',
+    name: 'SHAKSHI',
     email: 'sarah.thompson@example.com',
     expertise: ['Digital Marketing', 'SEO', 'Content Strategy'],
     experience: '10 years as marketing executive, helped scale multiple startups.',

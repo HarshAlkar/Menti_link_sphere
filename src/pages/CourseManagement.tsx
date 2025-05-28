@@ -56,7 +56,7 @@ const mockCourses: Course[] = [
     students: 24,
     lastUpdated: '2023-09-15',
     status: 'published',
-    instructor: 'Dr. Maria Garcia',
+    instructor: 'HARSH ALKAR',
   },
   {
     id: '2',
@@ -65,7 +65,7 @@ const mockCourses: Course[] = [
     students: 18,
     lastUpdated: '2023-09-12',
     status: 'published',
-    instructor: 'Robert Johnson',
+    instructor: 'SHREYAS MANE',
   },
   {
     id: '3',
@@ -74,7 +74,7 @@ const mockCourses: Course[] = [
     students: 32,
     lastUpdated: '2023-09-18',
     status: 'draft',
-    instructor: 'Emily Chen',
+    instructor: 'SURAJ LONDHE',
   },
 ];
 

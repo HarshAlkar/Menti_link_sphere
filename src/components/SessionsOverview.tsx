@@ -14,7 +14,7 @@ const upcomingSessions = [
   {
     id: "session1",
     title: "React Router Deep Dive",
-    mentor: "Dr. Maria Garcia",
+    mentor: "HARSH ALKAR",
     mentorAvatar: "/placeholder.svg",
     date: "2023-10-15T10:00:00",
     duration: "45 min",
@@ -24,7 +24,7 @@ const upcomingSessions = [
   {
     id: "session2",
     title: "Redux State Management",
-    mentor: "Robert Johnson",
+    mentor: "SHREYAS MANE",
     mentorAvatar: "/placeholder.svg",
     date: "2023-10-17T14:30:00",
     duration: "60 min",

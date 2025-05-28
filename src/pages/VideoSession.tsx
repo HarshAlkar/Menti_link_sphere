@@ -136,7 +136,7 @@ const VideoSession = () => {
             id: 'video1',
             title: 'CSS Grid & Flexbox Masterclass',
             courseId: '1',
-            instructor: 'Dr. Maria Garcia',
+            instructor: 'HARSH ALKAR',
             thumbnail: 'https://images.unsplash.com/photo-1593720213428-28a5b9e94613',
             description: 'Master modern CSS layout techniques with Grid and Flexbox.',
             duration: '45:00',
@@ -144,21 +144,21 @@ const VideoSession = () => {
             participants: [
               { id: 'user1', name: 'Alex Chen', avatar: '/placeholder.svg', role: 'student', isOnline: true, isVideoOn: true, isAudioOn: true },
               { id: 'user2', name: 'Sarah Johnson', avatar: '/placeholder.svg', role: 'student', isOnline: true, isVideoOn: true, isAudioOn: true },
-              { id: 'user3', name: 'Dr. Maria Garcia', avatar: '/placeholder.svg', role: 'instructor', isOnline: true, isVideoOn: true, isAudioOn: true },
+              { id: 'user3', name: 'HARSH ALKAR', avatar: '/placeholder.svg', role: 'instructor', isOnline: true, isVideoOn: true, isAudioOn: true },
             ]
           },
           {
             id: 'video2',
             title: 'JavaScript Promises & Async/Await',
             courseId: '1',
-            instructor: 'Robert Johnson',
+            instructor: 'SHREYAS MANE',
             thumbnail: 'https://images.unsplash.com/photo-1517180102446-f3ece451e9d8',
             description: 'Learn how to work with asynchronous JavaScript using Promises and async/await.',
             duration: '60:00',
             scheduled: '2023-10-20T14:00:00Z',
             participants: [
               { id: 'user1', name: 'Alex Chen', avatar: '/placeholder.svg', role: 'student', isOnline: true, isVideoOn: true, isAudioOn: true },
-              { id: 'user4', name: 'Robert Johnson', avatar: '/placeholder.svg', role: 'instructor', isOnline: true, isVideoOn: true, isAudioOn: true },
+              { id: 'user4', name: 'SHREYAS MANE', avatar: '/placeholder.svg', role: 'instructor', isOnline: true, isVideoOn: true, isAudioOn: true },
             ]
           },
         ];

@@ -24,7 +24,7 @@ const courseData = {
   id: '1',
   title: 'Machine Learning Essentials',
   instructor: {
-    name: 'Dr. James Wilson',
+    name: 'Dr. VARUN',
     avatar: '/placeholder.svg',
     bio: 'Senior Data Scientist with 10+ years of experience in AI and ML',
     expertise: ['Machine Learning', 'Deep Learning', 'Python', 'TensorFlow']

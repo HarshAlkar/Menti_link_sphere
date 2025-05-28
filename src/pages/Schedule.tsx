@@ -14,7 +14,7 @@ const upcomingSessions = [
   {
     id: '1',
     mentor: {
-      name: 'Dr. Maria Garcia',
+      name: 'HARSH ALKAR',
       avatar: '/placeholder.svg',
     },
     date: 'Monday, June 12, 2023',
@@ -25,7 +25,7 @@ const upcomingSessions = [
   {
     id: '2',
     mentor: {
-      name: 'Robert Johnson',
+      name: 'SHREYAS MANE',
       avatar: '/placeholder.svg',
     },
     date: 'Wednesday, June 14, 2023',
@@ -39,7 +39,7 @@ const pastSessions = [
   {
     id: '3',
     mentor: {
-      name: 'Emily Chen',
+      name: 'SURAJ LONDHE',
       avatar: '/placeholder.svg',
     },
     date: 'Friday, June 2, 2023',
@@ -50,7 +50,7 @@ const pastSessions = [
   {
     id: '4',
     mentor: {
-      name: 'James Wilson',
+      name: 'VARUN',
       avatar: '/placeholder.svg',
     },
     date: 'Tuesday, May 30, 2023',
