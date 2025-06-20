@@ -30,7 +30,7 @@ Frontend: Vercel
 Backend: Render / Similar Services
 
 ⚡️ Demo
-Try the live version: 👉 Menti_link_sphere Demo
+Try the live version: 👉 https://menti-link-sphere.vercel.app/
 
 🖼️ Screenshots
 
