@@ -34,6 +34,14 @@ Try the live version: 👉 Menti_link_sphere Demo
 Landing Page
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/8c078711-f8c8-43b0-9a17-7adf652c10a4" />
 
+Sign Up Page
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/236da0eb-a3ba-43fb-b57c-967b0a3ee3bc" />
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/59ca9073-acf8-44ee-a408-0f8d1045fa52" />
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/3947529e-fdd6-415b-aa1b-6ed416f7a5ef" />
+
+
 
 
 🚀 Getting Started
