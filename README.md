@@ -115,11 +115,17 @@ Set environment variables (MONGO_URI, JWT_SECRET, PORT).
 Click Deploy.
 
 🗺️ Roadmap / Future Features
+
 ✅ User profiles and editing
+
 ✅ Chat attachments (files, images)
+
 ✅ Video call support (WebRTC)
+
 ✅ Push notifications for mobile devices
+
 ✅ Role-based access controls (admin, mentor, mentee)
+
 ✅ AI recommendations for mentors and courses
 
 👥 Contributing
